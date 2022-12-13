@@ -50,6 +50,14 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
+#Server Side Output
+
+
+
+#Client Side Output
+
+
+
 
 
 ## RESULT:
