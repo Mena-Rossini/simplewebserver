@@ -48,11 +48,8 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()   
 ```   
 
-
 ## OUTPUT:
-
 # Server Side Output :
-
 ![exp1 terminal](https://user-images.githubusercontent.com/102855266/214329378-50a6269c-c2cf-4ab9-8611-c79a7bec7447.jpeg)
 
 
